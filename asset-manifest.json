@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Apurva-official/tic-tac-toe/static/css/main.ff67fee7.css",
+    "main.js": "/Apurva-official/tic-tac-toe/static/js/main.174be2be.js",
+    "static/js/453.e036e8b5.chunk.js": "/Apurva-official/tic-tac-toe/static/js/453.e036e8b5.chunk.js",
+    "static/media/logo.svg": "/Apurva-official/tic-tac-toe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Apurva-official/tic-tac-toe/index.html",
+    "main.ff67fee7.css.map": "/Apurva-official/tic-tac-toe/static/css/main.ff67fee7.css.map",
+    "main.174be2be.js.map": "/Apurva-official/tic-tac-toe/static/js/main.174be2be.js.map",
+    "453.e036e8b5.chunk.js.map": "/Apurva-official/tic-tac-toe/static/js/453.e036e8b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff67fee7.css",
+    "static/js/main.174be2be.js"
+  ]
+}
